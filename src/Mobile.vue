@@ -24,10 +24,10 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘
-* 你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* 大家好，我是高明岗
+*  山西人，目前就职于一览群智。
+* 
+*
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -128,36 +128,32 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `高明岗
 ----
 
-资深前端工程师，资深前端讲师
-现在在 [饥人谷](http://jirengu.com) 教前端课程。
+后端工程师，现在在 [一览群智](https://www.elensdata.com/home) 金融部从事后端开发。
 
 技能
 ----
+* Java开发
+* Python开发
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. [一览群智](https://www.elensdata.com/home)
+2. [东方国信](https://www.bonc.com.cn/)
+3. [北控国彩](http://www.bkguocai.com/)
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [GitHub](https://github.com/gmg0829)
+* [Blog](http://gmg0829.top)
 
-> 如果你喜欢这个效果，
-Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+> 交个朋友，关注“分母为零”公众号
+
 
 `
       }
